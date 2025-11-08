@@ -1,7 +1,3 @@
-[submodule "poky/poky"]
-	path = poky/poky
-	url = https://github.com/yoctoproject/poky
-	branch = walnascar
 [submodule "poky/meta-openembedded"]
 	path = poky/meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded
@@ -15,3 +11,9 @@
 [submodule "anki/victor"]
 	path = anki/victor
 	url = https://github.com/claudix29/claud-os-victor.git
+[submodule "poky/bitbake"]
+	path = poky/bitbake
+	url = https://github.com/openembedded/bitbake.git
+[submodule "poky/openembedded-core"]
+	path = poky/openembedded-core
+	url = https://github.com/openembedded/openembedded-core.git
