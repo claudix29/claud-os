@@ -17,3 +17,6 @@
 [submodule "poky/openembedded-core"]
 	path = poky/openembedded-core
 	url = https://github.com/openembedded/openembedded-core.git
+[submodule "external/purplpkg"]
+	path = external/purplpkg
+	url = https://github.com/purpl-org/purplpkg
